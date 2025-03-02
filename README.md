@@ -5,7 +5,8 @@
 - 📫 How to reach me: janeth.mamani.sacari@gmail.com
 - ⚡ Fun fact: You'll find cats and Megaman X references looking my projects.
 
-### 🐍 Snake game animation 
+<!---### 🐍 Snake game animation --->
+### Contributions
 ![Snake animation](https://github.com/JanethSacari/JanethSacari/blob/output/github-contribution-grid-snake.svg)
 
 <!---
