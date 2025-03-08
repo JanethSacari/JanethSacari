@@ -8,7 +8,6 @@
 <!---### 🐍 Snake game animation --->
 ### Contributions
 ![Snake animation](https://github.com/JanethSacari/JanethSacari/blob/output/github-contribution-grid-snake.svg)
-
 <!---
 JanethSacari/JanethSacari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
